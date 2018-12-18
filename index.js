@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function distanceFromHqInBlocks(blocks) {
-  let distance = '';
+  let distance = nill;
   if (blocks > 42) {
     distance = blocks - 42;
   }
